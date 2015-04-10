@@ -10,7 +10,11 @@
     "type": "git",
     "url": "https://github.com/adorableio/mobile-chat-server"
   },
-  "author": "Mark McEahern (m5rk)",
+  "author": {
+    "name": "Mark McEahern",
+    "email": "mark@adorable.io",
+    "url": "https://github.com/m5rk"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/adorableio/mobile-chat-server/issues"
