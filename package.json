@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/adorableio/mobile-chat-server/issues"
   },
-  "homepage": "https://github.com/adorableio/mobile-chat-server"
+  "homepage": "https://github.com/adorableio/mobile-chat-server",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
