@@ -1,7 +1,7 @@
 {
   "name": "chat-backend",
   "version": "0.0.1",
-  "description": "Backend for Mobile Chat app",
+  "description": "Server for Mobile Chat app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
