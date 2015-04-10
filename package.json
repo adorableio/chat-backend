@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/adorableio/chat-backend"
+    "url": "https://github.com/adorableio/mobile-chat-server"
   },
   "author": "Mark McEahern (m5rk)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adorableio/chat-backend/issues"
+    "url": "https://github.com/adorableio/mobile-chat-server/issues"
   },
-  "homepage": "https://github.com/adorableio/chat-backend"
+  "homepage": "https://github.com/adorableio/mobile-chat-server"
 }
